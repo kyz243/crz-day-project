@@ -8,7 +8,7 @@ s1 = str("True")
 s2 = str("False") 
 s3 = str("True")
 s4 = str("True")
-s5 = str("False")
+
 
 bil_betul = 0
 bil_salah = 0
